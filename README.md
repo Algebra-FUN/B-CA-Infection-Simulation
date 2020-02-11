@@ -6,9 +6,9 @@
 
 ## 实验效果
 
-![](C:\Users\CreatorFan\Documents\Learn@Jupyter\Experiment\Infection\img\50days.gif)
+![](.\img\50days.gif)
 
-![](C:\Users\CreatorFan\Documents\Learn@Jupyter\Experiment\Infection\img\100days.gif)
+![](.\img\100days.gif)
 
 ## 模型原理
 

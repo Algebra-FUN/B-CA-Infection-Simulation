@@ -14,7 +14,6 @@ from matplotlib import pyplot as plt
 
 def init_people_geo(n): return random(n)*10
 
-
 remove_rate = .01
 infect_rate = .5
 cmap = list('grk')
