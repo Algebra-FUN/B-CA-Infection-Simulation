@@ -6,9 +6,9 @@
 
 ## 实验效果
 
-![](.\img\50days.gif)
+![](./img/50days.gif)
 
-![](.\img\100days.gif)
+![](./img/100days.gif)
 
 ## 模型原理
 
